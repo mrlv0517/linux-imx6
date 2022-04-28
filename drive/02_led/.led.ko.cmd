@@ -1,0 +1,1 @@
+cmd_/home/xiaoyu/linux/code/drivers/02_led/led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/xiaoyu/linux/code/drivers/02_led/led.ko /home/xiaoyu/linux/code/drivers/02_led/led.o /home/xiaoyu/linux/code/drivers/02_led/led.mod.o
